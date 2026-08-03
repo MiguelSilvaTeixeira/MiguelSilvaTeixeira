@@ -6,7 +6,6 @@
 
 <p align="center">Profissional de TI que gosta de resolver problemas com tecnologia. Trabalho com infraestrutura, redes, suporte técnico e automação. Cursando Ciência da Computação, sou curioso, aprendo rápido e adoro trabalhar em equipe. Sempre buscando novos desafios. </p>
 
-
 <div align="center">
   <a href="https://www.linkedin.com/in/miguelsilvateixeira" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
