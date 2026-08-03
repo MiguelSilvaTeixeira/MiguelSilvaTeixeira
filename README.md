@@ -1,3 +1,9 @@
+<div data-importer="border">
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=001942&customColorList=001942,0d2847,1a3652,27445d"  />
+</div>
+
+###
+
 <h1 align="center">Olá, eu sou o Miguel 👋</h1>
 
 ###
@@ -11,9 +17,6 @@
   </a>
   <a href="https://miguelsilvateixeira.github.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfólio-0A66C2?style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio" />
-  </a>
-  <a href="https://discord.com/users/teixeira.miguel" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
   </a>
 </div>
 
