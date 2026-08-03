@@ -18,9 +18,10 @@
     <img src="https://img.shields.io/badge/Portfólio-0A66C2?style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio" />
   </a>
 </div>
-<br><br>
 
+<br>
 <h1></h1>
+<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,java,python,mysql,git,github,linux" height="60" alt="technologies" style="display:block; margin:0 auto;" />
