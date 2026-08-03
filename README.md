@@ -2,15 +2,12 @@
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=001942&customColorList=001942,0d2847,1a3652,27445d"  />
 </div>
 
-###
+---
 
 <h1 align="center">Olá, eu sou o Miguel 👋</h1>
----
 
 <p align="center">Profissional de TI que gosta de resolver problemas com tecnologia. Trabalho com infraestrutura, redes, suporte técnico e automação. Cursando Ciência da Computação, sou curioso, aprendo rápido e adoro trabalhar em equipe. Sempre buscando novos desafios. </p>
 
----
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/miguelsilvateixeira" target="_blank" rel="noopener noreferrer">
@@ -24,19 +21,15 @@
   </a>
 </div>
 
-###
+---
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,java,python,mysql,git,github,linux" height="60" alt="technologies" style="display:block; margin:0 auto;" />
 </div>
 
-###
-
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake contribution game" />
 </div>
-
-###
 
 <div data-importer="border">
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=001942&customColorList=001942,0d2847,1a3652,27445d"  />
