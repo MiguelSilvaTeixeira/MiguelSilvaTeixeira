@@ -3,16 +3,16 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/miguelsilvateixeira" target="_blank">
+  <a href="https://www.linkedin.com/in/miguelsilvateixeira" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="mailto:teixeira.miguel.trabalho@gmail.com">
+  <a href="mailto:teixeira.miguel.trabalho@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
-    <a href="https://miguelsilvateixeira.github.io/" target="_blank">
+  <a href="https://miguelsilvateixeira.github.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfólio-0A66C2?style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio" />
   </a>
-  <a href="https://discord.com/users/teixeira.miguel" target="_blank">
+  <a href="https://discord.com/users/teixeira.miguel" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
   </a>
 </div>
@@ -25,9 +25,8 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/MiguelSilvaTeixeira/MiguelSilvaTeixeira/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/MiguelSilvaTeixeira/MiguelSilvaTeixeira/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelSilvaTeixeira&theme=dracula&hide_border=false" height="160" alt="streak stats" />
 </div>
 
 ###
