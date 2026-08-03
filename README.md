@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Olá, eu sou o Miguel 👋</h2><br>
+<h2 align="center">Olá, eu sou o Miguel 👋</h2>
 
 <p align="center">Profissional de TI que gosta de resolver problemas com tecnologia. Trabalho com infraestrutura, redes, suporte técnico e automação. Cursando Ciência da Computação, sou curioso, aprendo rápido e adoro trabalhar em equipe. Sempre buscando novos desafios. </p>
 
