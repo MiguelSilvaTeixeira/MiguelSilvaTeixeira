@@ -26,11 +26,14 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelSilvaTeixeira&show_icons=true&theme=dracula&hide_border=false" height="160" alt="github stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelSilvaTeixeira&theme=dracula&hide_border=false" height="160" alt="streak stats" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake contribution game" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake contribution game" />
 </div>
+
+###
