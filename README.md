@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Olá, eu sou o Miguel 👋</h2>
+<h1 align="center">Olá, eu sou o Miguel 👋</h1>
 
 ---
 
