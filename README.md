@@ -4,7 +4,7 @@
 
 ---
 
-<h1 align="center">Olá, eu sou o Miguel 👋</h1>
+<h1 align="center" style="border-bottom: none; margin-bottom: 0; padding-bottom: 0;">Olá, eu sou o Miguel 👋</h1> <br>
 
 <p align="center">Profissional de TI que gosta de resolver problemas com tecnologia. Trabalho com infraestrutura, redes, suporte técnico e automação. Cursando Ciência da Computação, sou curioso, aprendo rápido e adoro trabalhar em equipe. Sempre buscando novos desafios. </p>
 
