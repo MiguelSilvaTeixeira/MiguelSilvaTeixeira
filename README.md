@@ -2,9 +2,7 @@
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=001942&customColorList=001942,0d2847,1a3652,27445d"  />
 </div>
 
----
-
-<h1 align="center" style="border-bottom: none; margin-bottom: 0; padding-bottom: 0;">Olá, eu sou o Miguel 👋</h1> <br>
+<h1 align="center" style="border-bottom: none; margin-bottom: 0; padding-bottom: 0;">Olá, eu sou o Miguel 👋</h1> <br><br><br>
 
 <p align="center">Profissional de TI que gosta de resolver problemas com tecnologia. Trabalho com infraestrutura, redes, suporte técnico e automação. Cursando Ciência da Computação, sou curioso, aprendo rápido e adoro trabalhar em equipe. Sempre buscando novos desafios. </p>
 
