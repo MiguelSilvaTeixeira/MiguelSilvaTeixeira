@@ -28,14 +28,12 @@
 
 ###
 
-<div align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelSilvaTeixeira&theme=dracula&hide_border=false" height="160" alt="streak stats" />
-</div>
-
-###
-
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake contribution game" />
 </div>
 
 ###
+
+<div data-importer="border">
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=001942&customColorList=001942,0d2847,1a3652,27445d"  />
+</div>
